@@ -2,7 +2,11 @@
   "name": "material-rick",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://proactivelatam.cl/rick-2/",
   "dependencies": {
+    "@material-ui/core": "^4.11.1",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/lab": "^4.0.0-alpha.56",
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
     "@testing-library/user-event": "^12.1.10",

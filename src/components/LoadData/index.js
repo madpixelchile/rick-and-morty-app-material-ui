@@ -29,10 +29,6 @@ export const LoadData = (props) => {
     }, [pageNumber])
 
     return (
-        <div>
-            {
-                // ()=>handleFetch
-            }
-        </div>
+       <></>
     )
 }
